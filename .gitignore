@@ -1,0 +1,5 @@
+model-pol-classifier-50000.h5
+article_scraping/Articles_50000.csv
+article_scraping/Articles_50000_cleaned.csv
+article_scraping/Articles_70000.csv
+
